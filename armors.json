@@ -1,0 +1,7 @@
+{
+    "id":"gravlance",
+    "alias":"Graviton Lance",
+    "baseDmg":10,
+    "dmgMod":3,
+    "ap":5
+}

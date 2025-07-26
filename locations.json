@@ -1,0 +1,9 @@
+{
+    "nexus":{
+        "tags":[
+            "city"
+        ],
+        "coords":[0,0],
+        "desc":"The heart of the city"
+    }
+}

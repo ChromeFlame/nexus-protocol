@@ -1,0 +1,16 @@
+{
+    "stranger": {
+        "name": "Stranger",
+        "lv": 0,
+        "str": 1,
+        "wis": 1,
+        "dex": 1
+    },
+    "viers": {
+        "name": "Viers",
+        "lv": 12,
+        "str": 6,
+        "wis": 6,
+        "dex": 2
+    }
+}
